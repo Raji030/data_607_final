@@ -247,7 +247,7 @@ xlab("Fitted values") +
 ylab("Residuals")
 ```
 From the plot above, it is seen that the residuals are not distributed around 0 with a consistent pattern,
-which indicating a  linear trend. So, I can not assume a linear regression model for fitting the data set here.
+which indicating a non- linear trend. So, I can not assume a linear regression model for fitting the data set here.
 
 ** Nearly normal residuals check by plotting histogram:
 ```{r }
